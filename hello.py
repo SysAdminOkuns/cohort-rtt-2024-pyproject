@@ -1,5 +1,5 @@
 userInput = input("Choose a number? ")
-#print(type(userInput))
+print(type(userInput))
 addTwenty = userInput + 20
 print(addTwenty)
 """
